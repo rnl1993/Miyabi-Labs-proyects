@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8897ced489a37486aafed78790adaa43, type: 3}
+  m_Name: DogFood
+  m_EditorClassIdentifier: 
+  Name: DogFood
+  foodType: 2
+  FoodTexture: {fileID: 2800000, guid: 49708116278664aeca131f20b41d3582, type: 3}

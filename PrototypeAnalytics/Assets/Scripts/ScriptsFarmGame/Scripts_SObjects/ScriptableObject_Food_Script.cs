@@ -1,0 +1,1 @@
+﻿using UnityEngine;  [CreateAssetMenu(fileName = "New food", menuName = "Farm/Food")] public class ScriptableObject_Food_Script : ScriptableObject {      //Variables________________________      public string Name;     public int foodType;     public Texture FoodTexture;  }

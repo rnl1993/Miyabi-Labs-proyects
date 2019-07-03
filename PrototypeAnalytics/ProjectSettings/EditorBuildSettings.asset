@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DashboardScenes/NewDashboard.unity
+    guid: 0e57498864c4b493c9b92ea511bd9b6e
+  - enabled: 1
+    path: Assets/Scenes/ExerciseScenes/ColorObjectsExercises.unity
+    guid: 0ab80ab59150e4a6e94148278a6f179b
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/PlanetsGameScene.unity
+    guid: b6fbdb22dd2d2456896898b36d0ff2db
+  m_configObjects: {}

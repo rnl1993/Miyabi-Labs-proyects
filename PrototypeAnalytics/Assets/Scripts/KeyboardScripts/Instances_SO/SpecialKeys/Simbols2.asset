@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb0da87088f64c458bed919fda0ab80, type: 3}
+  m_Name: Simbols2
+  m_EditorClassIdentifier: 
+  KeyName: Simbols2
+  value: 5
+  Artwork: {fileID: 21300000, guid: e008506e8fd494df49bb35cf919be0e9, type: 3}
