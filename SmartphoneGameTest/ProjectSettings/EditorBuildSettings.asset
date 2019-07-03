@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EscenasApp/DashBoardScene.unity
+    guid: 15d1683a62bd94b83a48510c48dc0646
+  - enabled: 1
+    path: Assets/Scenes/EscenasApp/GameTestScene_1.unity
+    guid: c2b3c1cd41d7f40e4ae75f17effc2eae
+  - enabled: 1
+    path: Assets/Scenes/EscenasApp/AnalyticsScenes.unity
+    guid: 0be0f01826d044edd9e7091088fe7f77
+  - enabled: 1
+    path: Assets/Scenes/EscenasApp/AboutScene.unity
+    guid: 86b8c90d368f7486fb5913740a740872
+  m_configObjects: {}

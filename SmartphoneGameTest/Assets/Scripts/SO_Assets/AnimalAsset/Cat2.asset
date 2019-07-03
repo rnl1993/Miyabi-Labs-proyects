@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f653acffa777e4df6b9408afe3e20fce, type: 3}
+  m_Name: Cat2
+  m_EditorClassIdentifier: 
+  Name: Cat2
+  animalType: 2
+  AnimalTexture: {fileID: 2800000, guid: 84e75c6ab14984855be2e7bab974440c, type: 3}
